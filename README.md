@@ -17,4 +17,4 @@
     4. the entry point of the system is the file **login.html**, located in **frontend -> login**
     5. you can run the system on **localhost** and explore it thoroughly
     6. you can learn more about the system from its [documentation (in Bulgarian)]
-    (./project documentation.pdf)
+    (./ project documentation.pdf)
