@@ -16,5 +16,4 @@
     3. the system should be started by university administrator. The administrator should have a **.csv** file named **graduating students** in which all the graduating students are listed together with their marks. You can change the example file named **graduating students**, located in **backend -> database_files** with your own **.csv** file named the same way
     4. the entry point of the system is the file **login.html**, located in **frontend -> login**
     5. you can run the system on **localhost** and explore it thoroughly
-    6. you can learn more about the system from its [documentation (in Bulgarian)]
-    (./ project documentation.pdf)
+    6. you can learn more about the system from its [documentation](./project documentation.pdf) in Bulgarian
