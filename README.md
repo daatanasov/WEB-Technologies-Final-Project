@@ -7,7 +7,7 @@
 
 * **Architecture**
     * *Presentation layer* - developed through **HTML**, **CSS** and **javaScript**
-    * *Database* - *MySQL*
+    * *Database* - **MySQL**
     * *Business logic* - implemented through **PHP**
 
 * **How to use**
